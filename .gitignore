@@ -1,0 +1,24 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Alembic
+alembic/__pycache__/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Sistema
+.DS_Store
